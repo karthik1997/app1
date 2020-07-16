@@ -3,5 +3,7 @@ pandas==1.0.5
 numpy==1.16.5
 keras==2.3.0 
 opencv-python==3.1.0.4
-glob3==11.7.0
+Flask==1.0.2
+fastai==1.0.42
+glob3==0.0.1
 scikit-learn==0.23
