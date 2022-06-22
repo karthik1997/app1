@@ -1,6 +1,6 @@
 tensorflow-cpu==2.2.0
 pandas==1.0.5
-numpy==1.16.5
+numpy==1.22.0
 keras==2.3.0 
 opencv-python==3.1.0.4
 Flask==1.0.2
